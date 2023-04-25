@@ -6,18 +6,35 @@ body{
      'Open Sans', 'Helvetica Neue', sans-serif;
      
 }
+h2{
+    font-size: medium;
+    margin: auto;
+}
 #image{
     width: 80%;
-    height: 70%;
+    height: 100%;
 }
 #img-div{
     text-align: center;
     background-color: white;
 }
 #secondDiv{
-    text-align: center;
-
+   text-align: left;
+   font-size: 20px;
+   padding: 30px 70px;
+   max-width: 600px;
+   margin: 10px auto;
 }
-#ul {
-text-align: center;
+h3{
+    padding: 50px;
+    text-align: center;
+    color: black;
+}
+a{
+    color: #99f;
+}
+#tribute-info{
+    padding: 50px;
+  max-width: 800px;
+  text-align: center;
 }
